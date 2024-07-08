@@ -1,0 +1,17 @@
+{
+  "pages": [
+    {
+      "path": "pages/index"
+    },
+	{
+	  "path": "pages/upgrade"
+	}
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Bluetooth OTA",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "uniIdRouter": {}
+}
